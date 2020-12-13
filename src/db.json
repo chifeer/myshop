@@ -1,0 +1,28 @@
+{
+  "wines": [
+    {
+      "id": 10001,
+      "name": "Esse Pinot Nuare",
+      "vintage": "2016",
+      "inventory": 6,
+      "image": "@/assets/images/products/1.jpg",
+      "price": 100000
+    },
+    {
+      "id": 20001,
+      "name": "Esse Pinot Nuare",
+      "vintage": "2016",
+      "inventory": 6,
+      "image": "@/assets/images/products/1.jpg",
+      "price": 100000
+    },
+    {
+      "id": 30001,
+      "name": "Esse Pinot Nuare",
+      "vintage": "2016",
+      "inventory": 6,
+      "image": "@/assets/images/products/1.jpg",
+      "price": 100000
+    }
+  ]
+}
